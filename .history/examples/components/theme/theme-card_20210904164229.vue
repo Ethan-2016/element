@@ -23,7 +23,7 @@
       width: 40%;
       margin: 0 auto;
       text-align: center;
-      color: #606266;
+      color: #000;
       img {
         display: block;
         margin: 0 auto;
@@ -142,7 +142,7 @@
     .description {
       padding: 0 12px;
       font-size: 14px;
-      color: #606266;
+      color: #000;
       margin-top: 10px;
     }
   }
